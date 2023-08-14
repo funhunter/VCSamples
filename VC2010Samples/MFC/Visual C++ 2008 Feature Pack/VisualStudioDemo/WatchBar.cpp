@@ -30,7 +30,7 @@ CWatchBar::~CWatchBar()
 {
 }
 
-BEGIN_MESSAGE_MAP(CWatchBar, CDockablePane)
+BEGIN_MESSAGE_MAP(CWatchBar, CDockablePaneEx)
 	ON_WM_CREATE()
 	ON_WM_SIZE()
 	ON_WM_PAINT()

@@ -12,7 +12,7 @@
 /////////////////////////////////////////////////////////////////////////////
 // CWatchBar window
 
-class CWatchBar : public CDockablePane
+class CWatchBar : public CDockablePaneEx
 {
 // Construction
 public:

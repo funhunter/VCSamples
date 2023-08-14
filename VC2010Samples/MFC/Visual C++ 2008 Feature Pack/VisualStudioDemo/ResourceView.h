@@ -11,7 +11,7 @@
 
 #include "ClassTreeWnd.h"
 
-class CResourceViewBar : public CDockablePane
+class CResourceViewBar : public CDockablePaneEx
 {
 // Construction
 public:

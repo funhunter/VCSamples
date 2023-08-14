@@ -29,7 +29,7 @@ CResourceViewBar::~CResourceViewBar()
 {
 }
 
-BEGIN_MESSAGE_MAP(CResourceViewBar, CDockablePane)
+BEGIN_MESSAGE_MAP(CResourceViewBar, CDockablePaneEx)
 	ON_WM_CREATE()
 	ON_WM_SIZE()
 	ON_WM_CONTEXTMENU()
